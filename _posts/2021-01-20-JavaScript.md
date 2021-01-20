@@ -3,8 +3,9 @@
 2. 웹브라우저는 한 번 화면에 출력되면 바꿀 수 없지만 JavaScript를 이용하여 바꿀 수 있다. <br>
 3. JavaScript가 HTML을 제어하는 언어다.<br>
 4. JavaScript - 동적 / HTML - 정적
+
 ---
-<br>
+<br/>
 
 ## 1. JacaScript 태그
 - `<script> </script>` : 웹브라우저에게 자바스크립트라는 것을 알려주기 위해<br>
